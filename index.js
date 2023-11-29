@@ -3,5 +3,5 @@ function hello(nombre) {
   console.log(`Hola bienvenido a mi pagina ${nombre}`);
 }
 function bye(nombre){
-  console.log(`Bueno nos vemos ${nombre}`);
+  console.log(`byee bye ${nombre}`);
 }
